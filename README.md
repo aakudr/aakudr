@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Alex
-- 👀 I like developing applications for science
-- 🌱 Currently learning bioinformatics
-- 📫 aakudr2k3@gmail.com
+- 👋 Hi.
 
 <!---
 aakudr/aakudr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
